@@ -1,4 +1,4 @@
-# Introduction to REST
+# Introduction to REST - read
 
 ## Objectives
 
